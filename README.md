@@ -13,8 +13,8 @@ The following packages are provided by the APT repository:
 
 | Package | Description | Author | Source |
 | ------- | ----------- | ------ | ------ |
-mops      | CLI tool to interact with MongoDB Ops manager API | schabiyo | [schabiyo/fox](https://github.com/schabiyo/mops)
-matlas   | CLI tool to interact with the Atlas API | schabiyo | [schabiyo/afox](https://github.com/mongo/matlas)
+mops      | CLI tool to interact with MongoDB Ops manager API | schabiyo | [schabiyo/mops](https://github.com/schabiyo/mops)
+matlas   | CLI tool to interact with the Atlas API | schabiyo | [schabiyo/matlas](https://github.com/mongo/matlas)
 
 To install a package from our tap, run:
 
